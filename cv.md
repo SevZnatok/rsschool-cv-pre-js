@@ -23,7 +23,7 @@ I am currently studying web development in order to change the type of activity.
 
 3. JS basics
 
-4. Video course “ *S0ERDEVS* ”, ”_Freelancer for life_ ”
+4. Video course “ *S0ERDEVS* ”, ”_Freelancer for life_ ”, ” *Glo Academy* ”
 
 5. Figma, Abode Photoshop(for web development)
 
