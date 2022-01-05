@@ -1,1 +1,1 @@
-# rsschool-cv
+https://SevZnatok.github.io/rsschool-cv/
